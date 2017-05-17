@@ -1,0 +1,110 @@
+
+.header{
+    width: 100%;
+    height:30%;   
+}
+
+.body{
+    background-color: gray;
+    text-align: center;
+    font-size: 12px;
+    
+}
+
+
+
+.title{
+    width: 100%;
+    height: 100%;
+    font-size:35px;
+    text-align: center;
+    font-style: italic; 
+    background-color: deeppink;
+    font-weight: bold;
+    line-height: 100px;
+}
+
+.logo{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.menu{
+    width: 100%;
+    height: 40px;
+    position:relative;
+    background-color:lightpink;
+   
+}
+
+.menu ul{
+  margin: 0;
+   padding: 0;
+    list-style: none;
+}
+
+
+.menu ul li{
+    float: left;
+    padding-left:3px;
+    
+}
+
+
+.menu ul li a{
+    float: left;
+    color:fuchsia;
+    padding:10px 10px;
+    text-decoration: none;
+    background-color:lightpink;
+    font-size:18; 
+    display: block;
+
+}
+
+
+.menu ul li a:hover {
+    color: white;
+    background-color:cornflowerblue;
+}
+
+
+#runingtext{
+    width: 100%;
+    height:30px;
+    background-color: blue;
+    position: relative;
+    font-style:oblique;
+   
+}
+
+
+.content{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+}
+
+.footer{
+    width: 100%;
+    height:15%;
+    font-size:15px;
+    text-align:center;
+    text-decoration-color: blue;
+    background-color:chocolate;
+    color:black;
+    float: left;
+   
+}
+
+
+
+
+
+
