@@ -139,9 +139,13 @@ img{
 .center-sidebar{
     width:34%;
     height:350px;
-    background-image: url(image/kain/kain%2013.jpg);
+    background-color:#9DFFCD;
     float: left;
+    font-weight:bold;
+    text-align: center;
+    text-decoration: overline;
    
+    
 }
 
 
