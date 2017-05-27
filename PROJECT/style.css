@@ -108,7 +108,7 @@ img{
 .right-sidebar{
     width: 33%;
     height: 350px;
-    background:aquamarine;
+   /* background:aquamarine;*/
     float: left;
 }
 
@@ -139,13 +139,12 @@ img{
 .center-sidebar{
     width:34%;
     height:350px;
-    background-color:#9DFFCD;
+   /* background-color:#9DFFCD;*/
     float: left;
-    font-weight:bold;
     text-align: center;
-    text-decoration: overline;
-   
-    
+    text-decoration:none;
+  
+  
 }
 
 
