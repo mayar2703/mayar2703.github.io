@@ -22,14 +22,14 @@
 }
 
 .logo{
-    width: 30%;
-    height: 100%;
+    width: 99%;
+    height: 300%;
     float: left;
 }
 
 img{
     
-    height: 100%;
+    height:100%;
     width: 100%;
 }
 .img-kain{
@@ -110,6 +110,7 @@ img{
     height: 350px;
    /* background:aquamarine;*/
     float: left;
+    text-align:center;
 }
 
 .content-jahit{
@@ -124,7 +125,6 @@ img{
     height: 450px;
     background-color:#FFE6C9;
     font-family:sans-serif;
-    text-align: center;
   
    
 }
@@ -134,6 +134,7 @@ img{
     height:350px;
     background:'#8b51f5';
     float: left;
+    text-align:center;
 }
 
 .center-sidebar{
@@ -166,4 +167,73 @@ ul li a.fa{
 
 ul li a:hover;
 
+#sidebar{
+    padding:5px;
+    width: 27%;
+    background:blue;position: relative;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+
+.widged{
+    width: 100%;
+    height:auto
+    background-bottom:5px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    font-size: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 2px 0px 2px 0px;
+    text-align: center;
+  
+        
+}
+
+
+.gambar{
+    width: 100%;
+    height: 300px;
+}
+.judulwidgwed{
+   
+    padding: 10px 5px 5px 10px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    color: aqua;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.widged ul{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    list-style-type: none;
+}
+.widged li{
+    padding: 0px 0px 0px 0px;
+    background-position: left;
+    background-repeat: no-repeat;
+    color: #333333;
+    
+    
+}
+
+.widged li a{
+    color: #333333;
+    border-bottom: 1px dotted #cccccc;
+    text-decoration: none;
+   
+    margin-bottom:10px;
+    padding: 10px 10px 10 px 10px;
+      
+
+    
+}
+
+.widged li a:hover{
+    color: blue;
+}
 
